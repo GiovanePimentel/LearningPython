@@ -1,2 +1,2 @@
 # LearningPython
-Estudando Python
+Estruturas de controle
